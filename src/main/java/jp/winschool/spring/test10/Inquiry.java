@@ -12,5 +12,5 @@ public class Inquiry {
 	private Integer age;
 	private String gender;
 	private String contents;   
-
+ 
 }
